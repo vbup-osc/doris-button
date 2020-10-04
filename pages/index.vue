@@ -137,6 +137,7 @@
 $nonlinear-transition: cubic-bezier(0.25, 0.8, 0.5, 1);
 .v-card {
   margin: 8px auto;
+  border-radius: 20px;
 }
 
 .fab-tip {
